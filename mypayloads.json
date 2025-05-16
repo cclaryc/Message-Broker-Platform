@@ -1,0 +1,14 @@
+[
+    {
+        "description": "topic weather/iasi - type INT - value{23}",
+        "payload_base64": "d2VhdGhlci9pYXNpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFw=="
+    },
+    {
+        "description": "topic traffic/cluj - type STRING - value{accident}",
+        "payload_base64": "dHJhZmZpYy9jbHVqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYWNjaWRlbnQ="
+    },
+    {
+        "description": "topic weather/iasi - type SHORT_REAL - value{21.50}",
+        "payload_base64": "d2VhdGhlci9pYXNpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCGY="
+    }
+]
